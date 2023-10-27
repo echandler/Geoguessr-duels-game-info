@@ -1,3 +1,5 @@
+``⚠️`` Installing any script could get your account banned.
+
 # Geoguessr-duels-game-info
 Saves information about games played in duels mode.
 
